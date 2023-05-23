@@ -6,9 +6,15 @@ public class Clock {
     private int second;
 
     public Clock(int hour, int minute, int second) {
-        this.hour = hour;
-        this.minute = minute;
-        this.second = second;
+        if (hour < 0 || hour > 23) {
+            this.hour = 0;
+        }
+        if (minute < 0 || minute > 59) {
+            this.minute = 0;
+        }
+        if (second < 0 || second > 59) {
+            this.second = 0;
+        }
     }
 
     public void setHour(int hour) {

@@ -1,5 +1,7 @@
 package dietelExercisesChapter4;
 
+import java.util.Scanner;
+
 public class AsterisksLoop {
     public static void main(String[] args) {
 
@@ -63,25 +65,77 @@ public class AsterisksLoop {
 //    System.out.println();
 //    count = count + 2;
 //}
+//
+//      int count = 1;
+//      while (count <= 10){
+//          int count1 = 1;
+//          while (count1 <= 10) {
+//              System.out.print(" * ");
+//              count1++;
+//          }
+//      count++;
+//      System.out.println();
+//      if (count % 2 == 0) {
+//          System.out.print(" ");
+//      }
+//
+//
+//      }
+//
+//      for (int i = 1 ; i <= 100 ; i++) {
+//      if (i % 2 == 0) {
+//        System.out.println("even " + i);
+//      }
+//      else System.out.println("odd");
+//
+//}
 
-  int count = 1;
-  while (count <= 10){
-          int count1 = 1;
-          while (count1 <= 10) {
-              System.out.print(" * ");
-              count1++;
-          }
-      count++;
-      System.out.println();
-      if (count % 2 == 0) {
-          System.out.print(" ");
-      }
+        int i = 0;
+        int j = 1;
+        int f;
+        System.out.println(i);
+        System.out.println(j);
+        for (int k = 1 ; k <= 10 ; k++) {
+        f = i + j;
+        System.out.println(f);
+        i = j;
+        j = f;
+    }
+//
+//        Scanner input = new Scanner(System.in);
+//        System.out.println("Enter numbers between 0 and 100 : ");
+//        int number = input.nextInt();
+//        int total = 0;
+//        while (number != -20) {
+//            if(number >= 0 && number <= 100) {
+//                total = total + number;
+//                System.out.println("Enter numbers between 0 and 100 :");
+//                number = input.nextInt();
+//            }
+//            else {
+//                System.out.println("Invalid number, Please enter numbers between 0 and 100");
+//                number = input.nextInt();
+//            }
+//        }
+//        System.out.printf("The sum total of numbers is %d :", total);
 
-
-  }
-
-
+        Scanner input = new Scanner(System.in);
+        System.out.println("Enter numbers between 0 and 100 : ");
+        int number = input.nextInt();
+        int total = 0;
+        for (;number != -20;) {
+            if (number >= 0 && number <= 100) {
+                total = total + number;
+                System.out.println("Enter numbers between 0 and 100 :");
+                number = input.nextInt();
+            }
+            else {
+                System.out.println("Invalid number, Please enter numbers between 0 and 100");
+                number = input.nextInt();
+            }
+        }
+        System.out.printf("The sum total of numbers is %d :", total);
 
 
     }
-}
+    }

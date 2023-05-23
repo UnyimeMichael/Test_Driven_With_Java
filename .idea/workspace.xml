@@ -5,49 +5,64 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="054d56ed-826f-4f24-9621-07817e89e887" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChristmasSong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Grade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LanguageSelection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaxAndMinNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Name.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NokiaMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberExercises.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberExercises1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberExercises2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberExercises3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberExercises4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberFactorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TrianglePrintingPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/Practices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietelExercisesChapter2/ArithmeticSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietelExercisesChapter2/AsteriskShapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietelExercisesChapter2/CheckerboardAsterisksPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietelExercisesChapter2/ComparingIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietelExercisesChapter2/DivisibleByThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietelExercisesChapter2/Multiples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietelExercisesChapter2/SmallestAndLargestNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietelExercisesChapter3/Clock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietelExercisesChapter3/HealthProfile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietelExercisesChapter3/HeartRatesCalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietelExercisesChapter4/AsterisksLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietelExercisesChapter4/ClassAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dietelExercisesChapter4/Tax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/HumanTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/MaxAndMinNumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/NameTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/NumberFactorialTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/dietelExercisesChapter3/ClockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/dietelExercisesChapter3/HealthProfileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/dietelExercisesChapter3/HeartRatesCalculatorTestTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/dietelExercisesChapter4/ClassAverageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/dietelExercisesChapter4/TaxTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdditionQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArithmeticProcesses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArithmeticProcessesMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CurrentTimeMillis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method/AccountMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method/MethodCaller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method/MethodTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/LargeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/MethodIteration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/MethodsCalling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OopOfThings/Amphibians.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OopOfThings/Animals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OopOfThings/Aves.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OopOfThings/Invertebrates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OopOfThings/LivingThing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OopOfThings/Mammals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OopOfThings/NonLivingThings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OopOfThings/Pisces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OopOfThings/Plants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OopOfThings/Reptiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OopOfThings/Vertebrate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/ArrayAverageCalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/ArrayLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/ArrayPopulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/ArrayReversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/ArraySamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/LargestElementArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/LargestElementArrayMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/ListConcatenation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/OddAndEvenElementArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/OddPositionsArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/StringPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/SumOfNumbersInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/ThreeDimensionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/TotalOfList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelExercisesChapter2/BodyMassIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelExercisesChapter2/DiameterCircumferenceAndArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelExercisesChapter2/IntegerValueOfCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelExercisesChapter2/NegativePositiveAndZeroValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelExercisesChapter2/SeparatingDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dietelExercisesChapter2/TableOfSquaresAndCubes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/Problem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Ac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/arrays/ArrayLoopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/objectOrientedProgramming/GeoPoliticalZone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/objectOrientedProgramming/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/objectOrientedProgramming/ProblemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tdd/AcTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accountTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newProjec.iml" beforeDir="false" afterPath="$PROJECT_DIR$/newProjec.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NumberPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumberPrint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/Practices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/Practices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelExercisesChapter3/Clock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietelExercisesChapter3/Clock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dietelExercisesChapter4/AsterisksLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dietelExercisesChapter4/AsterisksLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/dietelExercisesChapter3/ClockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/dietelExercisesChapter3/ClockTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +73,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -86,8 +102,8 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;last_directory_selection&quot;: &quot;/home/godfrey/IdeaProjects/newProjec/src&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/godfrey/IdeaProjects/newProjec&quot;,
+    &quot;last_directory_selection&quot;: &quot;/home/godfrey/IdeaProjects/JavaPractical/src&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/godfrey/IdeaProjects/JavaPractical&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -102,6 +118,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="objectOrientedProgramming" />
+      <recent name="tdd" />
       <recent name="dietelExercisesChapter4" />
       <recent name="dietelExercisesChapter3" />
       <recent name="" />
@@ -110,17 +128,26 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="objectOrientedProgramming" />
+      <recent name="arrays" />
       <recent name="dietelExercisesChapter4" />
       <recent name="dietelExercisesChapter3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Practices">
-    <configuration name="Practices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.Practices" />
+  <component name="RunManager" selected="Application.AdditionQuiz">
+    <configuration name="AdditionQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdditionQuiz" />
+      <module name="newProjec" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Method.Calculator" />
       <module name="newProjec" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.*" />
+          <option name="PATTERN" value="Method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,76 +155,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaxTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CurrentTimeMillis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CurrentTimeMillis" />
       <module name="newProjec" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dietelExercisesChapter4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="dietelExercisesChapter4" />
-      <option name="MAIN_CLASS_NAME" value="dietelExercisesChapter4.TaxTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaxTest.testFor15PercentTax" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LargeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.LargeNumber" />
       <module name="newProjec" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dietelExercisesChapter4.*" />
+          <option name="PATTERN" value="Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="dietelExercisesChapter4" />
-      <option name="MAIN_CLASS_NAME" value="dietelExercisesChapter4.TaxTest" />
-      <option name="METHOD_NAME" value="testFor15PercentTax" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaxTest.testFor20PercentTax" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MethodIteration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.MethodIteration" />
       <module name="newProjec" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dietelExercisesChapter4.*" />
+          <option name="PATTERN" value="Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="dietelExercisesChapter4" />
-      <option name="MAIN_CLASS_NAME" value="dietelExercisesChapter4.TaxTest" />
-      <option name="METHOD_NAME" value="testFor20PercentTax" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TaxTest.testForTax" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="newProjec" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dietelExercisesChapter4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="dietelExercisesChapter4" />
-      <option name="MAIN_CLASS_NAME" value="dietelExercisesChapter4.TaxTest" />
-      <option name="METHOD_NAME" value="testForTax" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Practices" />
-        <item itemvalue="JUnit.TaxTest" />
-        <item itemvalue="JUnit.TaxTest.testFor20PercentTax" />
-        <item itemvalue="JUnit.TaxTest.testFor15PercentTax" />
-        <item itemvalue="JUnit.TaxTest.testForTax" />
+        <item itemvalue="Application.AdditionQuiz" />
+        <item itemvalue="Application.CurrentTimeMillis" />
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.LargeNumber" />
+        <item itemvalue="Application.MethodIteration" />
       </list>
     </recent_temporary>
   </component>
@@ -227,10 +224,37 @@
       <workItem from="1682706061316" duration="1856000" />
       <workItem from="1682777552045" duration="7569000" />
       <workItem from="1682935251521" duration="961000" />
+      <workItem from="1682936848290" duration="5965000" />
+      <workItem from="1683021755943" duration="8604000" />
+      <workItem from="1683227608025" duration="3566000" />
+      <workItem from="1683276193678" duration="71671000" />
+      <workItem from="1683707232816" duration="746000" />
+      <workItem from="1683708245702" duration="21206000" />
+      <workItem from="1683824209388" duration="6907000" />
+      <workItem from="1683879174429" duration="9396000" />
+      <workItem from="1683964646097" duration="24171000" />
+      <workItem from="1684012040760" duration="19635000" />
+      <workItem from="1684223099750" duration="18001000" />
+      <workItem from="1684322530678" duration="2703000" />
+      <workItem from="1684407531040" duration="5104000" />
+      <workItem from="1684484206586" duration="9920000" />
+      <workItem from="1684601828285" duration="3651000" />
+      <workItem from="1684688338866" duration="16446000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/TotalOfList.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
